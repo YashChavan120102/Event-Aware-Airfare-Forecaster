@@ -103,7 +103,8 @@ Interactive app to: - Input travel details\
 
 ## 📸 Demo
 
-> 📌 Add screenshots or a GIF here (important for recruiters)
+> 📌<img width="1897" height="906" alt="EAAF" src="https://github.com/user-attachments/assets/c6aa2863-dc5d-44aa-907b-cb0d4c3f961f" />
+
 
 ------------------------------------------------------------------------
 
