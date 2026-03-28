@@ -1,0 +1,12 @@
+{
+  "route": "BER-LHR",
+  "departure_date": "2026-03-15",
+  "today": "2025-12-15",
+  "current_price": 241.28,
+  "projected_min_price": 194.78,
+  "projected_savings_pct": 19.27,
+  "advice": "WAIT",
+  "reason": "Expected future dip below today's price.",
+  "ideal_booking_dtd": 28,
+  "ideal_booking_date": "2026-02-15"
+}

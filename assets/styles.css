@@ -1,0 +1,44 @@
+/* Save as: assets/styles.css */
+
+/* spacing under header */
+.container-fluid { padding-top: 10px; }
+
+/* KPI cards */
+.kpi-card { height: 92px; border-radius: 14px; }
+.kpi-body  { height: 92px; display:flex; align-items:center; gap:12px; }
+.kpi-icon  { width:44px; height:44px; border-radius:12px; display:flex; align-items:center; justify-content:center;
+             background: rgba(0,0,0,0.06); flex:0 0 auto; }
+.kpi-label { font-size:0.85rem; color:#6c757d; line-height:1.1rem; }
+.kpi-value { font-size:1.25rem; font-weight:800; line-height:1.35rem; }
+
+/* Graph cards */
+.graph-card { border-radius: 14px; }
+.card-title-row { font-weight:800; letter-spacing:1px; margin-bottom:8px; }
+
+/* --- Improved DatePickerSingle styling inside Bootstrap InputGroup --- */
+.date-picker { width: 100%; }
+.date-picker .DateInput,
+.date-picker .DateInput_input { width: 100%; }
+
+.date-picker .SingleDatePickerInput {
+  width: 100%;
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.date-picker .SingleDatePickerInput__withBorder {
+  border: 0 !important;
+}
+
+.date-picker .DateInput_input {
+  border: none !important;
+  box-shadow: none !important;
+  font-size: 0.95rem;
+  padding: 0.45rem 0.75rem;
+  background: transparent !important;
+}
+
+.date-picker .DateInput_input__focused {
+  border: none !important;
+  box-shadow: none !important;
+}

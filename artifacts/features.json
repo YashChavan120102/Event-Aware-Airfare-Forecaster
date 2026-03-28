@@ -1,0 +1,16 @@
+{
+  "features": [
+    "days_to_dep",
+    "is_weekend_dep",
+    "season_month",
+    "holiday_proximity",
+    "event_intensity_new",
+    "origin_tavg",
+    "origin_prcp",
+    "origin_wspd",
+    "dest_tavg",
+    "dest_prcp",
+    "dest_wspd"
+  ],
+  "event_column": "event_intensity_new"
+}

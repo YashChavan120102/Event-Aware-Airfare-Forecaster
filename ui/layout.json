@@ -1,0 +1,21 @@
+{
+  "app_title": "Event-Aware Airfare Forecaster",
+  "subtitle": "Next-year forecasts with event-aware demand signals (no event names shown).",
+  "controls": [
+    { "id": "route", "type": "dropdown", "label": "Route" },
+    { "id": "airline", "type": "dropdown", "label": "Airline" },
+    { "id": "dep_date", "type": "dropdown", "label": "Departure Date (2025–2026)" },
+    { "id": "today", "type": "dropdown", "label": "Assumed Booking Date (snapshot)" }
+  ],
+  "cards": [
+    { "id": "advice", "label": "Recommendation" },
+    { "id": "price_today", "label": "Predicted Price (Today)" },
+    { "id": "best_date", "label": "Best Booking Date" },
+    { "id": "savings", "label": "Potential Savings" },
+    { "id": "event_level", "label": "Event Demand Level" }
+  ],
+  "charts": [
+    { "id": "forecast_trend", "title": "Forecast Trend (booking date → predicted fare)" },
+    { "id": "last_year_curve", "title": "Last-Year Pattern (event vs non-event)" }
+  ]
+}

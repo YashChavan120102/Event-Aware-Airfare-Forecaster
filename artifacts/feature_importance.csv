@@ -1,0 +1,12 @@
+feature,importance
+origin_tavg,2344
+dest_tavg,2214
+holiday_proximity,1676
+origin_wspd,1507
+dest_wspd,1432
+season_month,949
+origin_prcp,616
+dest_prcp,587
+days_to_dep,271
+event_intensity_new,204
+is_weekend_dep,200
