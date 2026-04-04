@@ -16,9 +16,9 @@ The **Event-Aware Airfare Forecaster (EAAF)** is an end-to-end machine
 learning system that predicts airfare trends and provides **Buy vs Wait
 recommendations** using real-world contextual signals like:
 
--   📅 Holidays\
--   🎉 Local Events\
--   🌦️ Weather\
+-   📅 Holidays
+-   🎉 Local Events
+-   🌦️ Weather
 -   📊 Booking behavior
 
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ recommendations** using real-world contextual signals like:
 ## 🎯 Business Problem
 
 Flight booking platforms today: - Show only current prices\
-- Ignore demand signals\
+- Ignore demand signals
 - Lack historical intelligence
 
-👉 Result: - Users overpay\
-- Poor booking timing\
+👉 Result: - Users overpay
+- Poor booking timing
 - High uncertainty
 
 ------------------------------------------------------------------------
@@ -43,9 +43,9 @@ EAAF answers one key question:
 
 ### ✅ Features
 
--   📈 Price trend forecasting\
--   🧠 Buy vs Wait recommendation\
--   📅 Optimal booking date suggestion\
+-   📈 Price trend forecasting
+-   🧠 Buy vs Wait recommendation
+-   📅 Optimal booking date suggestion
 -   🔍 Explainable predictions
 
 ------------------------------------------------------------------------
@@ -69,10 +69,10 @@ EAAF answers one key question:
 
 ### 2️⃣ Feature Engineering
 
--   Holiday Proximity Score\
--   Event Intensity Index\
--   Weather Impact Features\
--   Seasonality & Weekends\
+-   Holiday Proximity Score
+-   Event Intensity Index
+-   Weather Impact Features
+-   Seasonality & Weekends
 -   Days-to-Departure
 
 ------------------------------------------------------------------------
@@ -86,17 +86,17 @@ EAAF answers one key question:
 
 ### 4️⃣ Recommendation Engine
 
--   BUY → Prices expected to rise\
--   WAIT → Price drop predicted\
+-   BUY → Prices expected to rise
+-   WAIT → Price drop predicted
 -   Suggests optimal booking date
 
 ------------------------------------------------------------------------
 
 ### 5️⃣ Dashboard (Streamlit)
 
-Interactive app to: - Input travel details\
-- View predictions\
-- Get recommendations\
+Interactive app to: - Input travel details
+- View predictions
+- Get recommendations
 - Understand reasoning
 
 ------------------------------------------------------------------------
@@ -120,19 +120,19 @@ Interactive app to: - Input travel details\
 
 ## 🧠 Key Highlights
 
-✔️ Combines ML + real-world signals\
-✔️ Moves from prediction → decision intelligence\
-✔️ Fully end-to-end pipeline\
+✔️ Combines ML + real-world signals
+✔️ Moves from prediction → decision intelligence
+✔️ Fully end-to-end pipeline
 ✔️ Business-focused ML application
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   Python\
--   Pandas, NumPy\
--   LightGBM\
--   Requests, Dotenv\
+-   Python
+-   Pandas, NumPy
+-   LightGBM
+-   Requests, Dotenv
 -   Streamlit
 
 ------------------------------------------------------------------------
@@ -141,12 +141,12 @@ Interactive app to: - Input travel details\
 
 ### 👤 Users
 
--   Better booking decisions\
+-   Better booking decisions
 -   Reduced costs
 
 ### 🏢 Businesses
 
--   Pricing insights\
+-   Pricing insights
 -   Travel optimization
 
 ------------------------------------------------------------------------
@@ -154,24 +154,24 @@ Interactive app to: - Input travel details\
 ## 🔐 Data Note
 
 Synthetic dataset used due to lack of historical airfare snapshots in
-public APIs.\
+public APIs.
 Real-world signals integrated for realism.
 
 ------------------------------------------------------------------------
 
 ## 🔮 Future Work
 
--   SHAP explainability\
--   LSTM / Prophet models\
--   Cloud deployment\
+-   SHAP explainability
+-   LSTM / Prophet models
+-   Cloud deployment
 -   Real-time pipelines
 
 ------------------------------------------------------------------------
 
 ## 🤝 Let's Connect
 
-If you're interested in: - Travel Tech\
-- Data Products\
+If you're interested in: - Travel Tech
+- Data Products
 - Machine Learning
 
 Feel free to connect!
@@ -180,5 +180,5 @@ Feel free to connect!
 
 ## 👨‍💻 Author
 
-**Yash Chavan**\
-MSc Data Science \| Berlin
+**Yash Chavan**
+MSc Data Science | Berlin
